@@ -1,0 +1,20 @@
+{
+  "name": "Komponen PWA - Implementasi Dasar PWA IT Today 2021",
+  "short_name": "Komponen PWA",
+  "description": "Demo chapter 01 Komponen PWA materi Implementasi Dasar PWA di IT Today 2021",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "images/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }  
+  ]
+}
