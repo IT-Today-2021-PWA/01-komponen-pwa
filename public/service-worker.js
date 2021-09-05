@@ -11,6 +11,7 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
   'index.html',
   './', // alias untuk index.html
+  'images/icon192.png',
   'style.css',
   'app.js'
 ];
